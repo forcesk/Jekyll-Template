@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Contact us
+title: home
 ---
 
 This page is for the index.
