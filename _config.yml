@@ -13,5 +13,4 @@ theme: minima
 
 header_pages:
   - about.md
-    - testing.md
   - home.md
