@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Great First Post
+title: simple post
 ---
 
 This is it!
