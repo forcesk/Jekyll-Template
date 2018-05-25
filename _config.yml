@@ -12,5 +12,4 @@ markdown: kramdown
 theme: minima
 
 header_pages:
-  - about.md
-  - home.md
+  - about.md - home.md
