@@ -1,10 +1,10 @@
 # basic options
 title: Website's name
-author: GitHub User
-email: your-email@domain.com
+author: Emmanuel Castillo
+email: Emm.CastilloG@gmail.com
 description: This site is about...
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: iEmmCastillo_
+github_username:  forcesk
 
 # Build settings
 markdown: kramdown
