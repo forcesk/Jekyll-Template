@@ -5,6 +5,7 @@ email: Emm.CastilloG@gmail.com
 description: This site is about...
 #twitter_username: iEmmCastillo_
 github_username:  forcesk
+facebook_username: jekyll
 
 # Build settings
 markdown: kramdown
@@ -12,4 +13,5 @@ theme: minima
 
 header_pages:
   - about.md
+    -testing.md
   - home.md
