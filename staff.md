@@ -8,3 +8,5 @@ The team members:
 blablablabla
 blablabla
 blablabla
+
+[Link to News section](news.md)
