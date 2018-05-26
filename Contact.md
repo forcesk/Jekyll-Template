@@ -8,4 +8,4 @@ blablablabla
 blablabla
 blablabla
 
-[Sub-Page](_site/sub-post.md)
+[Sub-Page](_site/SimplePost.md)
