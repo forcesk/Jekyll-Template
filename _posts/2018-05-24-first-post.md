@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Great First Post
+title: The First Post Ever!
 ---
 
 This is it!
-What a wonderful post!
+what a good good post.
