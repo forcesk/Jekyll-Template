@@ -1,1 +1,1 @@
-![alt text](/images/CDMX.jpg)
+Templete for a Jekyll generate web page.
