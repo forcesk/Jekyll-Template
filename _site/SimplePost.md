@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sub-Page
+title: SimplePost
 ---
 
 Simple sub-page
