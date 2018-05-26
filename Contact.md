@@ -8,4 +8,4 @@ blablablabla
 blablabla
 blablabla
 
-[Sub-Page](/_site/SimplePost.md)
+[Sub-Page](/page/donate.md)
