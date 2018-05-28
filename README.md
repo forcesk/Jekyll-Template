@@ -1,1 +1,1 @@
-Templete for a Jekyll generate web page.
+Template for a Jekyll generate web page.
